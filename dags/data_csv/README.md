@@ -1,0 +1,1 @@
+En esta carpeta se guardan las descargas de los .csv de IMDB
